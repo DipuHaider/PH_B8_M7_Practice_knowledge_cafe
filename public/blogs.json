@@ -1,0 +1,102 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/30vmw4t/1.jpg",
+      "title": "Lorem Ipsum Dolor Sit Amet",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co/2PBz7Pb/boy1.png",
+      "posted_date": "September 15, 2023",
+      "reading_time": 10,
+      "hashtags": ["Lorem", "Ipsum", "Web"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/Wz2TD55/2.png",
+      "title": "A Journey Through Time",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co/DYhN3LJ/girl1.jpg",
+      "posted_date": "September 12, 2023",
+      "reading_time": 8,
+      "hashtags": ["Time Travel", "Adventure", "History"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/Bq5CXyc/3.png",
+      "title": "Cooking Delights",
+      "author": "Alice Johnson",
+      "author_img": "https://i.ibb.co/yQmcthS/boy2.jpg",
+      "posted_date": "September 10, 2023",
+      "reading_time": 15,
+      "hashtags": ["Cooking", "Recipes", "Food"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/JKgHScp/4.jpg",
+      "title": "The Art of Painting",
+      "author": "Michael Lee",
+      "author_img": "https://i.ibb.co/FqjTRgg/girl2.jpg",
+      "posted_date": "September 8, 2023",
+      "reading_time": 12,
+      "hashtags": ["Art", "Painting", "Creativity"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/Wz2TD55/2.png",
+      "title": "Exploring Nature",
+      "author": "Sarah Adams",
+      "author_img": "https://i.ibb.co/yQmcthS/boy2.jpg",
+      "posted_date": "September 5, 2023",
+      "reading_time": 9,
+      "hashtags": ["Nature", "Outdoors", "Adventure"]
+    },
+    {
+      "id": 6,
+      "cover": "https://i.ibb.co/30vmw4t/1.jpg",
+      "title": "Tech Trends 2023",
+      "author": "David Wilson",
+      "author_img": "https://i.ibb.co/DYhN3LJ/girl1.jpg",
+      "posted_date": "September 3, 2023",
+      "reading_time": 7,
+      "hashtags": ["Technology", "Trends", "Innovation"]
+    },
+    {
+      "id": 7,
+      "cover": "https://i.ibb.co/Wz2TD55/2.png",
+      "title": "The Science of Space",
+      "author": "Emily Clark",
+      "author_img": "https://i.ibb.co/FqjTRgg/girl2.jpg",
+      "posted_date": "September 1, 2023",
+      "reading_time": 14,
+      "hashtags": ["Space", "Science", "Exploration"]
+    },
+    {
+      "id": 8,
+      "cover": "https://i.ibb.co/Bq5CXyc/3.png",
+      "title": "Traveling the World",
+      "author": "Daniel Brown",
+      "author_img": "https://i.ibb.co/DYhN3LJ/girl1.jpg",
+      "posted_date": "July 28, 2023",
+      "reading_time": 11,
+      "hashtags": ["Travel", "Adventure", "Culture"]
+    },
+    {
+      "id": 9,
+      "cover": "https://i.ibb.co/Wz2TD55/2.png",
+      "title": "Health and Wellness",
+      "author": "Olivia Garcia",
+      "author_img": "https://i.ibb.co/2PBz7Pb/boy1.png",
+      "posted_date": "July 25, 2023",
+      "reading_time": 13,
+      "hashtags": ["Health", "Wellness", "Lifestyle"]
+    },
+    {
+      "id": 10,
+      "cover": "https://i.ibb.co/30vmw4t/1.jpg",
+      "title": "The History of Architecture",
+      "author": "William Adams",
+      "author_img": "https://i.ibb.co/yQmcthS/boy2.jpg",
+      "posted_date": "July 22, 2023",
+      "reading_time": 16,
+      "hashtags": ["Architecture", "History", "Design"]
+    }
+  ]
